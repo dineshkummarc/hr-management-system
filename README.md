@@ -3,8 +3,8 @@ All-in-one Single-Page-Application to manage employee attendance, leaves, payrol
 and organize your organization's branches and departments.
 
 # Try it Yourself!
-[https://hrs.ahmaddeghady.online
-](https://hrs.ahmaddeghady.online)
+[https://hrs.ahmaddeghady.com
+](https://hrs.ahmaddeghady.com)
 > Note: This is a test app deployed on a limited VPS. Current performance is modest due to poor server, and the data is subject to deletion at any time.
 
 # Video Demo (Arabic)
